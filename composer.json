@@ -1,5 +1,5 @@
 {
-    "name": "zendframework/zenddiagnostics",
+    "name": "rmzamora/zenddiagnostics",
     "description": "A set of components for performing diagnostic tests in PHP applications",
     "keywords": [
         "php",
@@ -21,7 +21,7 @@
         "zendframework/zend-loader"  : "2.*",
         "sensiolabs/security-checker": "1.3.*@dev",
         "symfony/yaml"               : "v2.3.11",
-        "guzzle/http"                : "3.*",
+        "guzzlehttp/guzzle"          : "~5.2|~6.0",
         "guzzle/plugin-mock"         : "3.*",
         "videlalvaro/php-amqplib"    : "2.*",
         "predis/predis"              : "0.8.*",
